@@ -1,0 +1,7 @@
+download node sdk header file 
+https://nodejs.org/dist/v18.18.2/node-v18.18.2-headers.tar.gz
+
+unzip to ${workdir}
+
+release test.node for qq
+debug test.node for node
